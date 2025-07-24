@@ -146,3 +146,4 @@ function populateResults(results) {
         tbody.appendChild(tr);
     });
 }
+
